@@ -7,7 +7,7 @@ void printForward(int n) {
     }
 }
 
-// Function to print spaces
+// Function to print spaces 
 void printSpaces(int n) {
     for (int i = 1; i <= n; i++) {
         printf(" ");
